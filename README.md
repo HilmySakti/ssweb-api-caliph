@@ -8,7 +8,7 @@
 
 ## App Deployments one Click
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zA58hj?referralCode=XDFlpf)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cakrayp/ssweb-api-caliph)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com//HilmySakti/ssweb-api-caliph)
 
 ### Heroku Buildpacks
 
